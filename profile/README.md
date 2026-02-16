@@ -6,15 +6,28 @@
 <p align="center"><strong>Your edge, expressed.</strong></p>
 
 <p align="center">
-  Market intelligence tooling and production-grade Python libraries for traders and builders.
+  <strong>Laakhay Alerts</strong> is our core product: real-time, expression-based crypto alerts for serious traders.
 </p>
 
-## What We Build
+<p align="center">
+  <a href="https://laakhay.com/alerts">Open Alerts</a> ·
+  <a href="https://laakhay.com">Website</a> ·
+  <a href="https://laakhay.com/docs">Docs</a> ·
+  <a href="https://x.com/laakhay_corp">𝕏</a>
+</p>
 
-- **Laakhay Alerts**: real-time, expression-based crypto alerts with multi-indicator logic and fast delivery.
-- **Open source Python libraries** used in production and available under MIT.
+## Laakhay Alerts
 
-## Public Projects
+Build alert logic the way you think:
+
+- Expression-based conditions across price, volume, and indicators
+- Real-time evaluation with low-latency delivery
+- Multi-indicator workflows for advanced trading setups
+- Delivery channels built for action (Web App, Telegram)
+
+## Open Source Ecosystem
+
+The product is powered by open, production-grade Python libraries:
 
 | Project | Purpose | Links |
 | --- | --- | --- |
@@ -24,14 +37,14 @@
 
 ## Principles
 
-- Clarity over complexity.
-- Reliable systems over hype.
-- Strong abstractions with practical performance.
-- Open tooling that is easy to trust and extend.
+- Clarity over complexity
+- Reliable systems over hype
+- Strong abstractions with practical performance
+- Open tooling that is easy to trust and extend
 
-## Links
+## Connect
 
-- Website: https://laakhay.com
 - Product: https://laakhay.com/alerts
 - Docs: https://laakhay.com/docs
+- 𝕏: https://x.com/laakhay_corp
 - GitHub: https://github.com/laakhay
